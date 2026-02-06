@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Do'kon Ma'lumotlari</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background-color: #f5f5f5; }
+        h1 { color: #333; }
+        .btn { display: block; margin: 20px auto; padding: 15px 25px; font-size: 18px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 8px; width: 250px; }
+        .btn:hover { background-color: #0056b3; }
+    </style>
+</head>
+<body>
+    <h1>Do'kon Ma'lumotlari</h1>
+    <a class="btn" href="tel:+9982000000969">Telefon</a>
+    <a class="btn" href="https://maps.app.goo.gl/FdCoQu7R3a46GtXF6?g_st=it" target="_blank">Manzil</a>
+    <a class="btn" href="#" onclick="alert('Ish vaqti: Har kuni 06:00 dan 23:00 gacha')">Ish vaqti</a>
+</body>
+</html>
